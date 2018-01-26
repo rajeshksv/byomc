@@ -18,6 +18,7 @@ NA
 - Download songs via keywords
 - Download songs via playlist URL
 - Download songs via collection URL (A collection generally would be one song in the source website which contains 10-20 songs embedded in it)
+- [Ambitious] Download collections via keywords. Ex: Illayaraja, SP Balu, Chiranjeevi. Download songs from various sources, remove duplicates (Deep learning), organize them
 
 ### Adding Metadata
 - Once you get the song, you need to fetch metadata and add to it
